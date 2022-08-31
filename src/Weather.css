@@ -27,6 +27,8 @@ h4 {
   margin-left: 0;
   padding-left: -2em;
 }
+h5 {font-size: 80%;
+margin-top: 40px;}
 ul {
   padding-left: -1em;
   margin: 0 0 10px;
@@ -99,3 +101,4 @@ input.search-bar {
   margin-left: 15px;
   padding-left: 1rem;
 }
+.textDecoration {text-decoration: none;}
