@@ -76,16 +76,19 @@ export default function Weather() {
                 <h5>
                   <a
                     className="textDecoration"
-                    href="https://gt2gzj-3000.preview.csb.app/"
+                    href="https://github.com/BestLifeEver/codesandbox-export"
                   >
                     Open Source
                   </a>{" "}
                   by Victoria Saunders from
-                  <a className="textDecoration" href="/">
+                  <a
+                    className="textDecoration"
+                    href="https://www.shecodes.io/workshops"
+                  >
                     {" "}
                     She Codes
                   </a>
-                 </h5>
+                </h5>
               </div>
             </div>
           </div>
